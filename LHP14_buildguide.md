@@ -1,6 +1,6 @@
 # LHP14　ビルドガイド
 
-![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/tree/main/images/IMG_0481.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0481.JPG)
 
 
 
