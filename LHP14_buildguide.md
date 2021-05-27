@@ -109,7 +109,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 ### １．ダイオードのはんだ付け
 
-![](C:\Users\Silver\Desktop\buildguide\images\diode.jpg)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/diode.jpg)
 
 ダイオードをはんだ付けします。ダイオードには極性（取付方向）があるので、ダイオードについている黒線を目印にします。
 
@@ -117,7 +117,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\diode2.jpg)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/diode2.jpg)
 
 ダイオードを基板の表面D1～D28にはんだ付けします。足をコの字に曲げて、基板の表面にセットして裏をはんだ付けします。向きはシルク印刷を参考にセットします。（黒線側が四角いパターンになる）
 
@@ -125,7 +125,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0401.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0401.JPG)
 
 ダイオードを1行ごとにセットしたらマスキングテープで固定すると作業中に外れずに作業しやすくなると思います。
 
@@ -133,7 +133,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0405.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0405.JPG)
 
 裏面ではんだ付けしたら足をカットします。
 
@@ -141,7 +141,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0402.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0402.JPG)
 
 はんだ付けが終わったら、念のためダイオードの向きが正しいかどうかチェックしましょう。
 
@@ -151,14 +151,14 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 ### ２．ProMicroの組み立て
 
-![](C:\Users\Silver\Desktop\buildguide\images\Promicro.jpg)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/Promicro.jpg)
 
 コンスル―付きのProMicroにはピンが別に付いている場合が多いですが、今回はコンスルーを使用します。
 コンスルーとは基板とProMicroを脱着可能にするソケットです。（ProMicroはUSB端子が取れたりとか意外と壊れることが多いのです；；）
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0408.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0408.JPG)
 
 基板の表面にコンスルーを手で差し込みます。**（絶対に基板にはんだ付けしないでください）**
 コンスルーの取り付けにも向きがあります。金色の穴が上になるようセットします。
@@ -166,13 +166,13 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0410.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0410.JPG)
 
 コンスルーにProMicroを写真の向きで差し込みます。ProMicroは部品が付いていない方が表になります。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0412.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0412.JPG)
 
 コンスルーとProMicroをはんだ付けします。最初に1か所だけはんだ付けして、ProMicroに浮きがないかチェックして残りのピンをはんだ付けしましょう。
 
@@ -182,25 +182,25 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 
 ### ３．リセットスイッチ、OLEDの取り付け
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0414.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0414.JPG)
 
 リセットスイッチを基板表面に差し込み、裏側をはんだ付けします。この部品には極性はありません。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0416.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0416.JPG)
 
 OLED取付用のソケットを表面に差し込み、裏面をはんだ付けします。こちらも極性はありません。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0417.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0417.JPG)
 
 OLEDソケットにピンを差し込みます。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0419.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0419.JPG)
 
 OLEDをピンにはんだ付けします。
 OLEDはとても角度がズレやすいので、4ピンを一気にはんだ付けせず、まずは1か所ハンダ付けします。もしOLEDがズレているようでしたら、はんだを溶かし直して位置を調整します。
@@ -224,7 +224,7 @@ OLEDはとても角度がズレやすいので、4ピンを一気にはんだ付
 
 #### ・LEDテープを使う方法
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0422.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0422.JPG)
 
 基板裏面の「GND」「DIN」「+5V」と書かれた端子にLEDテープをセットして、それぞれ対応する端子を写真のようにはんだ付けするだけです。
 
@@ -232,7 +232,7 @@ OLEDはとても角度がズレやすいので、4ピンを一気にはんだ付
 
 #### ・YS-SK6812MINI-Eを使う方法
 
-![](C:\Users\Silver\Desktop\buildguide\images\LED.jpg)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/LED.jpg)
 
 基板の裏面から、LED取付穴にYS-SK6812MINI-Eをはめ込んで足をはんだ付けしていきます。
 
@@ -242,7 +242,7 @@ LEDは極度に熱に弱いので、温度調整式のはんだごてを使い�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\LED2.jpg)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/LED2.jpg)
 
 LEDには極性があります。4本のLED足の内、斜めにカットされた足が三角のマークにくるようセットします。
 
@@ -251,7 +251,7 @@ LEDには極性があります。4本のLED足の内、斜めにカットされ�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0438.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0438.JPG)
 
 あと2つでゴール。
 がーんばれ、がーんばれッ！
@@ -272,19 +272,19 @@ LEDには極性があります。4本のLED足の内、斜めにカットされ�
 
 ### ５．スイッチの取り付け
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0443.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0443.JPG)
 
 スリムヘッド小ねじ M2x8を5本、丸スペーサーM2×L3.5mmを5個、写真のようにキープレートにねじ止めします。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0445.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0445.JPG)
 
 さらに丸スペーサーM2×L3.5mmを5個使って、基板とキープレートを合体させます。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0509.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0509.JPG)
 
 こんな感じに組み立てます（写真撮るの忘れたので、素の基盤を使って再現しましたｗ）
 
@@ -292,14 +292,14 @@ LEDには極性があります。4本のLED足の内、斜めにカットされ�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0512.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0512.JPG)
 
 スイッチを穴に差し込んでいきます。
 この時、スイッチの足が曲がることがあるので、差し込む前にスイッチの足が真っすぐかどうかチェックしながら作業します。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0447.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0447.JPG)
 
 
 LED照明をつけた場合、スイッチは透明のものを使うと光が綺麗に回ると思います。
@@ -308,7 +308,7 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0455.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0455.JPG)
 
 スイッチをはんだ付けする時も、2か所をはんだ付けせずに1か所のみはんだ付けしてスイッチの浮き、足折れがないかチェックします。
 
@@ -316,7 +316,7 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0448.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0448.JPG)
 
 ジョイスティック周りの2キーは付属のChocロープロファイルスイッチ指定です。
 （ジョイスティックの動きに干渉するのを防ぐため）
@@ -325,7 +325,7 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 #### TIPS
 
-![](C:\Users\Silver\Desktop\buildguide\images\Choc_mod.jpg)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/Choc_mod.jpg)
 
 私の作例写真で、メイン部分にMX互換スイッチとChocスイッチが混在していることがありますが、Chocスイッチの足が基板まで届かないので足を延長しております。
 ドリルなど細いものにスズメッキ線を巻き付けて、ループとChoc足をはんだ付けしております。
@@ -334,7 +334,7 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 ### ６．OLEDシールド用スペーサーの取り付け
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0456.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0456.JPG)
 
 六角スペーサーM2×L10mm　2個をスリムヘッド小ねじ M2x３でねじ止めします。
 
@@ -344,7 +344,7 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 ### ７．ジョイスティックの取り付け
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0459.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0459.JPG)
 
 今回、指定部品としてテストで特性が安定していたALPSのRKJXK122400Yを付属しました。
 
@@ -356,13 +356,13 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0461.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0461.JPG)
 
 ジョイスティックをはんだ付けしたら、丸スペーサーM2×L3.5mm3個をスリムヘッド小ねじ M2x３でねじ止めします。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0468.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0468.JPG)
 
 スリムヘッド小ねじ M2x３　8本でベースプレートを本体にねじ止めします。
 
@@ -372,14 +372,14 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 ### ８．完成
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0471.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0471.JPG)
 
 スリムヘッド小ねじ M2x５2本でOLEDシールドのアクリル板を取り付けます。
 ジョイスティックにアナログスティック用サムパッド取付部品を押し込みます。緩い場合は接着剤（SuperXなどは弱いです。作者はメタルロックをテスト中）を使ってください。
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0474.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0474.JPG)
 
 裏面に滑り止めの脚用ウレタンクッション　4個を張り付けます。
 
@@ -387,7 +387,7 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 
 
-![](C:\Users\Silver\Desktop\buildguide\images\IMG_0473.JPG)
+![](https://github.com/NeoTrinity-FF14/LHP14-Buildguide/blob/main/images/IMG_0473.JPG)
 
 好みのキーキャップ、サムパッドカバーを取り付けたら完成です！
 
