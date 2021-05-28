@@ -118,6 +118,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 <br>
 <br>
 <br>
+
 ### １．ダイオードのはんだ付け
 
 ![](./images/diode.jpg)
@@ -171,6 +172,7 @@ YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優�
 <br>
 <br>
 <br>
+
 ### ２．ProMicroの組み立て
 
 ![](./images/Promicro.jpg)
