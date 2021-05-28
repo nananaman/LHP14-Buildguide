@@ -1,11 +1,11 @@
-# LHP14　ビルドガイド
+# LHP14　ビルドガイド  
 　　
-![](./images/IMG_0481.JPG)
-　　
-　　
+![](./images/IMG_0481.JPG)  
 　　
 　　
-## はじめに
+　　
+　　
+## はじめに  
 
 アナログジョイスティック付き左手デバイス『**LHP14**』のビルドガイドです。
 （LHP=Left Hand Playing。ライトハンド奏法(=Right Hand Playing)にあやかって命名しました）
