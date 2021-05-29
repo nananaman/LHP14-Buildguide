@@ -7,7 +7,7 @@ LHP14はQMK firmwareという、キーボード用のオープンソースファ
 
 ### １．QMK-MSYSのセットアップ
 
-・[公式サイト](https://msys.qmk.fm/)からLatest versionのQMK_MSYS.exeをダウンロードし実行します。
+・[公式サイト](https://msys.qmk.fm/)からLatest versionのQMK_MSYS.exeをダウンロードし実行します。  
 　DL時、警告のメッセージが出る場合がありますが、何とか頑張ってダウンロードしましょう。
 
 ・QMK MSYSを起動します。 
