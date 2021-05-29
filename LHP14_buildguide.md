@@ -467,5 +467,5 @@ LED照明をつけた場合、スイッチは透明のものを使うと光が�
 
 ### **お疲れ様でした。Good game!**
 <br>
-<br>
-[＞＞動作テスト](./LHP14_hardware_test.md/) 
+<br>[**動作テスト**](./LHP14_hardware_test.md/)
+
