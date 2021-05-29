@@ -77,7 +77,7 @@
 ※上記は同時使用はできません。製作時にYS-SK6812MINI-Eを使うか、LEDテープで行くか決めてからパーツを集めてください。  
 YS-SK6812MINI-Eを使う方が難しいですが、見栄えはこちらが優れていると思います。
 
-※これらは<a href="https://shop.yushakobo.jp/" target="_blank">**遊舎工房**</a>やamazonなどで購入可能です    
+※これらは<a href="https://shop.yushakobo.jp/" target="_new">**遊舎工房**</a>やamazonなどで購入可能です    
 <br>
 <br>
 <br>
