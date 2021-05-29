@@ -1,7 +1,4 @@
 ## 動作テスト
-<br>
-<br>
-<br>
 LHP14はQMK firmwareという、キーボード用のオープンソースファームウェアで動作します。  
 私はwindows10でQMK MSYSとQMK Toolboxを使っておりますので、こちらを使った手順で説明します。
 <br>
