@@ -10,7 +10,7 @@ LHP14はQMK firmwareという、キーボード用のオープンソースファ
 ・[公式サイト](https://msys.qmk.fm/)からLatest versionのQMK_MSYS.exeをダウンロードし実行します。  
 　DL時、警告のメッセージが出る場合がありますが、何とか頑張ってダウンロードしましょう。
 
-・QMK MSYSを起動します。 
+・QMK MSYSを起動します。   
 　黒い画面が開き、＄が出たら、qmk setupと打ち込み、エンターを押します。
 
 ・設問が出ますが全てy(es)で答えます。
@@ -30,7 +30,8 @@ LHP14はQMK firmwareという、キーボード用のオープンソースファ
 <br>
 ### ３．テストファームの書き込み
 
-・[LHP14ファームウェア置き場](https://github.com/NeoTrinity-FF14/LHP14-firmware)からLHP14のファームウェアをダウンロードします。Codeと書いた緑のボタンを押し、Zipファイルをダウンロード、解凍します。
+・[LHP14ファームウェア置き場](https://github.com/NeoTrinity-FF14/LHP14-firmware)からLHP14のファームウェアをダウンロードします。  
+　Codeと書いた緑のボタンを押し、Zipファイルをダウンロード、解凍します。
 
 ・C:\Users\ユーザー名\qmk_firmware\keyboards\に、LHP14フォルダをフォルダごとコピーしてください。
 
