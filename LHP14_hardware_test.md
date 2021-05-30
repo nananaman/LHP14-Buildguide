@@ -44,7 +44,8 @@ LHP14はQMK firmwareという、キーボード用のオープンソースファ
 
 ### ２．QMK Toolboxのインストール
 
-・[公式サイト](https://github.com/qmk/qmk_toolbox/releases)からqmk_toolbox_install.exeをダウンロードし実行します。
+・[公式サイト](https://github.com/qmk/qmk_toolbox/releases)からqmk_toolbox_install.exeをダウンロードし実行します。  
+同じように警告が出ますが、インストールを進めていきます。
 <br>
 <br>
 <br>
